@@ -1,0 +1,10 @@
+1|Pantalon de Mezclilla|250|ropa
+2|Cafe americano|20|bebidas
+3|Refresco|20|Bebida fria
+4|Computadora de juego|120|Electronica
+5|Consola de videojuegos|100|Electronica
+6|Sabrits variadas|18|botana
+7|Hot Dog|35|Comida
+8|Papas a la francesa|30|Comida
+9|Hamburguesa|50|Comida
+10|Simulador de carreras|200|Electronica
