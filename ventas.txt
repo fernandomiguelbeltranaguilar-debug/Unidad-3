@@ -1,0 +1,5 @@
+Pantalon de Mezclilla|250.0|2|500.0
+Refresco|20.0|2|40.0
+Hamburguesa|50.0|1|50.0
+Simulador de carreras|200.0|1|200.0
+Computadora de juego|120.0|1|120.0
